@@ -1,0 +1,15 @@
+C:\Users\Tarona\Desktop\Исключения в прогр\bin\Debug\net6.0\Исключения в прогр.exe
+C:\Users\Tarona\Desktop\Исключения в прогр\bin\Debug\net6.0\Исключения в прогр.deps.json
+C:\Users\Tarona\Desktop\Исключения в прогр\bin\Debug\net6.0\Исключения в прогр.runtimeconfig.json
+C:\Users\Tarona\Desktop\Исключения в прогр\bin\Debug\net6.0\Исключения в прогр.dll
+C:\Users\Tarona\Desktop\Исключения в прогр\bin\Debug\net6.0\Исключения в прогр.pdb
+C:\Users\Tarona\Desktop\Исключения в прогр\obj\Debug\net6.0\Исключения в прогр.csproj.AssemblyReference.cache
+C:\Users\Tarona\Desktop\Исключения в прогр\obj\Debug\net6.0\Исключения в прогр.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarona\Desktop\Исключения в прогр\obj\Debug\net6.0\Исключения в прогр.AssemblyInfoInputs.cache
+C:\Users\Tarona\Desktop\Исключения в прогр\obj\Debug\net6.0\Исключения в прогр.AssemblyInfo.cs
+C:\Users\Tarona\Desktop\Исключения в прогр\obj\Debug\net6.0\Исключения в прогр.csproj.CoreCompileInputs.cache
+C:\Users\Tarona\Desktop\Исключения в прогр\obj\Debug\net6.0\Исключения в прогр.dll
+C:\Users\Tarona\Desktop\Исключения в прогр\obj\Debug\net6.0\refint\Исключения в прогр.dll
+C:\Users\Tarona\Desktop\Исключения в прогр\obj\Debug\net6.0\Исключения в прогр.pdb
+C:\Users\Tarona\Desktop\Исключения в прогр\obj\Debug\net6.0\Исключения в прогр.genruntimeconfig.cache
+C:\Users\Tarona\Desktop\Исключения в прогр\obj\Debug\net6.0\ref\Исключения в прогр.dll
